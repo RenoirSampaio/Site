@@ -1,0 +1,202 @@
+.main{
+    width: 85%;
+    float: left;
+    padding-bottom: 50px;
+}
+
+.titulomain{
+    background-color: #3C1D3D;
+    font-family: "Arial", sans-serif;
+    color: white;
+    padding: 25px;
+    padding-left: 20px;
+    margin: 0px;
+    text-align: center;
+    border-bottom: 10px solid black;
+    text-transform: uppercase;
+    font-size: 50px;
+}
+
+.btconf:hover{
+    background-color: white;
+    color: rgba(6, 86, 160, 0.8);
+    position: relative;
+    left: 2px;
+    bottom: 2px;
+    transition: 0.5s;
+}
+
+.btconf:active{
+    background-color: rgba(6, 86, 160, 0.8);
+}
+
+.btlink:hover{
+    background-color: rgba(6, 86, 160, 0.8);
+    transition: 0.5s;
+}
+
+
+.imgrs:hover{
+    box-shadow: 10px 10px 15px 10px rgba(6, 86, 160, 0.8);
+    transition: 1s;
+    position: relative;
+    bottom: 15px;
+    left: 10px; 
+}
+
+.img-fluid:hover{
+    box-shadow: 10px 10px 15px 10px rgba(6, 86, 160, 0.8);
+    transition: 1s;
+    position: relative;
+    bottom: 15px;
+    left: 10px;
+}
+
+
+.textarticle{
+    line-height: 170%;
+}
+
+.h2article{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+cite{
+    font-style: italic;
+}
+
+strong{
+    font-weight: bold; 
+}
+
+em{
+    font-style: italic; 
+    /*text-shadow: 2px 2px #3C1D3D;*/
+}
+
+.fiat{
+    float: right;
+    margin-left: 20px;
+}
+
+.petrobras{
+    float: left;
+    margin-right: 20px;
+}
+
+blockquote{
+    background-color: #D9E5E3; 
+    padding: 20px;
+    border: 10px solid #3C1D3D;
+    width: 250px;
+    box-sizing: border-box; 
+    margin: 20px 0px;
+}
+
+ul li a{
+    color: #F2FFFC;
+    text-decoration: none;
+}
+
+.aside{
+    background-color: #3C1D3D;
+    color: #F2FFFC;
+    text-align: center;
+    padding-bottom : 30px;
+    padding-top: 30px;
+    clear: right;
+    width: 15%;
+    float: right;
+    position: relative;
+    top:300px;
+    margin-top: 10px;
+}
+
+.tituloaside{
+    font-size: 30px;
+}
+
+.navaside{
+    padding: 20px;
+    text-align: center;
+}
+
+article{
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px; 
+    margin-top: 30px;
+}
+
+.leiamais a{
+    color: #851944;
+    font-size: 20px;
+}
+
+.leiamais{
+    margin: 0px 30px 0px 30px;
+    background-color: rgb(216, 215, 215); 
+    color: #851944;
+    text-align: center;
+    padding: 10px;
+}
+
+.cortag{
+    color: #851944;
+}
+
+footer{  
+    clear: both;
+    text-align: left;
+}
+
+.mainfooter {   
+    color: black;   
+}
+
+.footerout{
+    position: fixed;
+    background-color: black;
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 100%;
+    bottom: 0;
+}
+
+.ul2 li{
+    display: inline-block;
+
+}
+
+.container{
+    width: 720px;
+    margin-left: auto;
+    margin-right: auto;  
+    background-color: #F2FFFC;
+}
+
+.ul1{
+    list-style-type: none;
+}
+
+.ul2 li a{
+    display: block;
+    width: 40px;
+    height: 40px;
+    text-indent: -99999px;
+}
+
+.git{
+    background-image: url(github.png);
+}
+
+.twitter{
+    background-image: url(twitter.png);
+}
+
+.linkedin{
+    background-image: url(linkedin.png);
+}
+/*https://wa.me/5588999438142?text=Olá,%20meu%20amigo!
+  http://bit.ly/2lQEeU0*/
